@@ -70,4 +70,4 @@ if(arr1.length > 3){
 	}
 
 }
-calculator('1 - 5');
+calculator('II + VI');
